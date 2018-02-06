@@ -3,7 +3,7 @@ package by.htp.lsn;
 public class L3T12 {
 
 	public static void main(String[] args) {
-
+		// AdditionalBasicTasks array6
 		int a = 0;
 		int b = 0;
 		int j = 0;

@@ -3,7 +3,7 @@ package by.htp.lsn;
 public class L3T7 {
 
 	public static void main(String[] args) {
-
+		// AdditionalBasicTasks array1
 		int max = 0;
 		int[] arr = new int[10];
 		double[] arr2 = new double[10];
@@ -21,7 +21,7 @@ public class L3T7 {
 		System.out.println("\n" + "maximum num: " + max);
 
 		for (int i = 0; i < arr.length; i++) {
-			arr2[i] = (double)arr[i] / (double)max;
+			arr2[i] = (double) arr[i] / (double) max;
 		}
 
 		for (int i = 0; i < arr2.length; i++) {

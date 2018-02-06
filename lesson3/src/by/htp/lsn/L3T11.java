@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class L3T11 {
-
+	// AdditionalBasicTasks array5
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		int j = 0;
 		int[][] arr = new int[10][10];
@@ -16,7 +16,7 @@ public class L3T11 {
 			}
 			System.out.println();
 		}
-		
+
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		System.out.print("enter number:");
 		int x = Integer.parseInt(reader.readLine());

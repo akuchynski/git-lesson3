@@ -3,7 +3,7 @@ package by.htp.lsn;
 public class L3T8 {
 
 	public static void main(String[] args) {
-
+		// AdditionalBasicTasks array2
 		double[] arrA = new double[20];
 		int j = 0;
 		int k = 0;
@@ -22,7 +22,7 @@ public class L3T8 {
 		System.out.println("\n" + "arrB length: " + j);
 
 		double[] arrB = new double[j];
-		
+
 		System.out.print("arrB: ");
 		for (int i = 1; i < arrA.length; i += 2) {
 			if (arrA[i] > 0) {
